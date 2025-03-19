@@ -1,7 +1,5 @@
 AirCipher - Wi-Fi Security Analyzer Tool
 
-Author: Parikshit Singh
-Version: 1.0
 Description:
 AirCipher is a Python-based Wi-Fi security analyzer that automates network scanning, vulnerability detection, deauthentication attacks, and WPA2 handshake capturing. It helps security professionals assess Wi-Fi network security.
 
@@ -71,3 +69,5 @@ python aircipher.py detect
 python aircipher.py deauth --bssid AA:BB:CC:DD:EE:FF --interface wlan0
 python aircipher.py handshake --bssid AA:BB:CC:DD:EE:FF --interface wlan0
 python aircipher.py report
+
+Author: Parikshit Singh
