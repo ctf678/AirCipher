@@ -1,0 +1,15 @@
+Your requirements.txt should contain the following:
+
+scapy
+
+If you are using aireplay-ng and airodump-ng, they come pre-installed in Kali Linux, so you don't need to add them here.
+
+How to Install Scapy
+
+Run the following command to install Scapy:
+
+pip install scapy
+
+If you are using Kali Linux, Scapy might already be installed. You can check by running:
+
+python3 -c "import scapy; print('Scapy is installed')"
